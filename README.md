@@ -1,8 +1,6 @@
 
 [![About][about-badge]](#about)
 [![Technical Skills][technical-skills-badge]](#technical-skills)
-[![Projects][projects-badge]](#projects)
-[![GitHub Stats][github-stats-badge]](#github-stats)
 
 ## About
 
