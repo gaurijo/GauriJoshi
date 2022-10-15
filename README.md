@@ -8,7 +8,7 @@ Hi, I'm Gauri! :wave:
 
 I'm a life-long learning enthusiast and problem-solver. As a former public health researcher, I value the power of using technology to benefit social good. My previous experience conducting research on how web-based interventions can create positive health outcomes was a stepping stone into my career transition as a Software Engineer.
 
-I find joy in the challenges and creative processes behind manipulating data, consuming APIs and letting errors guide my coding process. I'm passionate about the intersection of health and technology, and cannot wait to build applications that help improve the lives of others! :computer:
+I find joy in the challenges and creative processes behind manipulating data, building and consuming APIs and letting errors guide my coding process. I'm passionate about the intersection of health and technology, and cannot wait to build applications that help improve the lives of others! :computer:
 
 When I'm not coding, I'm drinking copious amounts of coffee and playing with my foster kittens. Please feel free to reach out with any questions! :sparkles:
 
