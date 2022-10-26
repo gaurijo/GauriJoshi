@@ -26,14 +26,16 @@ Email: gauri728@gmail.com
 ![CSS][css-badge]
 ### 🛠 &nbsp; Tools
 
-![Atom][atom-badge]
 ![Git][git-badge]
+![GraphQL][graphql-badge]
+![CircleCI][circle-ci-badge]
 ![GitHub][github-badge]
 ![Heroku][heroku-badge]
 ![PostgreSQL][postgresql-badge]
 ![Postico][postico-badge]
 ![Postman][postman-badge]
 ![Slack][slack-badge]
+
 
 ### 💎 &nbsp; Ruby Gems
 ![Capybara][capybara-badge]
@@ -57,6 +59,7 @@ Email: gauri728@gmail.com
 ![TDD][tdd-badge]
 ![MVC][mvc-badge]
 ![REST][rest-badge]
+![SOA][soa-badge]
 
 <!-- BADGES & IMAGES -->
 [github-stats-image]: https://github-readme-stats.vercel.app/api?username=gaurijo&theme=vue&show_icons=true
@@ -77,6 +80,7 @@ Email: gauri728@gmail.com
 [atom-badge]: https://img.shields.io/badge/Atom-03e3fc.svg?&style=for-the-badge&logo=atom&logoColor=white
 [git-badge]: https://img.shields.io/badge/git-03e3fc.svg?&style=for-the-badge&logo=git&logoColor=white
 [github-badge]: https://img.shields.io/badge/GitHub-03e3fc.svg?&style=for-the-badge&logo=github&logoColor=white
+[graphql-badge]: https://img.shields.io/badge/-GraphQL-03e3fc.svg?style=for-the-badge&logo=graphql&logoColor=white
 [heroku-badge]: https://img.shields.io/badge/Heroku-03e3fc.svg?&style=for-the-badge&logo=heroku&logoColor=white
 [hound-badge]: https://img.shields.io/badge/hound-03e3fc.svg?&style=for-the-badge&logo=hound&logoColor=white
 [postgresql-badge]: https://img.shields.io/badge/PostgreSQL-03e3fc.svg?&style=for-the-badge&logo=postgresql&logoColor=white
@@ -99,6 +103,9 @@ Email: gauri728@gmail.com
 [simplecov-badge]: https://img.shields.io/badge/simplecov-03e3fc.svg?&style=for-the-badge&logo=rubygems&logoColor=white
 [vcr-badge]: https://img.shields.io/badge/vcr-03e3fc.svg?&style=for-the-badge&logo=rubygems&logoColor=white
 [webmock-badge]: https://img.shields.io/badge/webmock-03e3fc.svg?&style=for-the-badge&logo=rubygems&logoColor=white
+[rubocop-badge]: https://img.shields.io/badge/RuboCop-03e3fc.svg?&style=for-the-badge&logo=rubygems&logoColor=white
+[circle-ci-badge]: https://img.shields.io/badge/CircleCI-03e3fc.svg?&style=for-the-badge&logo=circleci&logoColor=white
+
 
 [oop-badge]: https://img.shields.io/badge/OOP-03e3fc.svg?&style=for-the-badge&logo=OOP&logoColor=white
 [tdd-badge]: https://img.shields.io/badge/TDD-03e3fc.svg?&style=for-the-badge&logo=TDD&logoColor=white
@@ -110,5 +117,6 @@ Email: gauri728@gmail.com
 [technical-skills-badge]: https://img.shields.io/badge/technical_skills-03e3fc.svg?&style=for-the-badge&logo=technical-skills&logoColor=white
 [projects-badge]: https://img.shields.io/badge/projects-03e3fc.svg?&style=for-the-badge&logo=projects&logoColor=white
 [github-stats-badge]: https://img.shields.io/badge/github_stats-03e3fc.svg?&style=for-the-badge&logo=githubstats&logoColor=white
+[soa-badge]: https://img.shields.io/badge/SOA-03e3fc.svg?&style=for-the-badge&logo=REST&logoColor=white
 
 
