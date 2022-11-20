@@ -22,12 +22,12 @@ Email: gauri728@gmail.com
 ![Ruby][ruby-badge]
 ![SQL][sql-badge]
 ![ActiveRecord][active-record-badge]
+![GraphQL][graphql-badge]
 ![HTML][html-badge]
 ![CSS][css-badge]
 ### 🛠 &nbsp; Tools
 
 ![Git][git-badge]
-![GraphQL][graphql-badge]
 ![CircleCI][circle-ci-badge]
 ![GitHub][github-badge]
 ![Heroku][heroku-badge]
