@@ -18,23 +18,29 @@ Email: gauri728@gmail.com
 ## Technical Skills
 
 ### 🏗 &nbsp; Frameworks & Languages
-![RubyOnRails][rails-badge]
-![Ruby][ruby-badge]
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![SQL][sql-badge]
 ![ActiveRecord][active-record-badge]
-![GraphQL][graphql-badge]
-![HTML][html-badge]
-![CSS][css-badge]
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### 🛠 &nbsp; Tools
 
-![Git][git-badge]
-![CircleCI][circle-ci-badge]
-![GitHub][github-badge]
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Heroku][heroku-badge]
 ![PostgreSQL][postgresql-badge]
 ![Postico][postico-badge]
-![Postman][postman-badge]
-![Slack][slack-badge]
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
 ### 💎 &nbsp; Ruby Gems
@@ -76,6 +82,8 @@ Email: gauri728@gmail.com
 [html-badge]: https://img.shields.io/badge/html5-03e3fc.svg?&style=for-the-badge&logo=html5&logoColor=white
 [css-badge]: https://img.shields.io/badge/css3-03e3fc.svg?&style=for-the-badge&logo=css3&logoColor=white
 [active-record-badge]: https://img.shields.io/badge/ActiveRecord-03e3fc.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
+[python-badge]: https://img.shields.io/badge/python-03e3fc.svg?&style=for-the-badge&logo=css3&logoColor=white
+[django-badge]: https://img.shields.io/badge/django-03e3fc.svg?&style=for-the-badge&logo=css3&logoColor=white
 
 [atom-badge]: https://img.shields.io/badge/Atom-03e3fc.svg?&style=for-the-badge&logo=atom&logoColor=white
 [git-badge]: https://img.shields.io/badge/git-03e3fc.svg?&style=for-the-badge&logo=git&logoColor=white
