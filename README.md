@@ -2,7 +2,7 @@
 [![About][about-badge]](#about)
 [![Technical Skills][technical-skills-badge]](#technical-skills)
 
-![Codewars Badge](https://www.codewars.com/users/gaurij/badges/small)
+![Codewars Badge](https://www.codewars.com/users/gaurij/badges/micro)
 
 ## About
 
