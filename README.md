@@ -12,10 +12,9 @@ I'm a life-long learning enthusiast and problem-solver. As a former public healt
 
 I find joy in the challenges and creative processes behind manipulating data, building and consuming APIs and letting errors guide my coding process. I'm passionate about the intersection of health and technology, and cannot wait to build applications that help improve the lives of others! :computer:
 
-When I'm not coding, I'm drinking copious amounts of coffee and playing with my foster kittens. Please feel free to reach out with any questions! :sparkles:
+When I'm not coding, I'm drinking copious amounts of coffee and playing with my foster kittens. Please feel free to reach out! :sparkles:
 
 LinkedIn: https://www.linkedin.com/in/gaurijo
-Email: gauri728@gmail.com
 
 ## Technical Skills
 
@@ -43,26 +42,7 @@ Email: gauri728@gmail.com
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-
-### 💎 &nbsp; Ruby Gems
-![Capybara][capybara-badge]
-![FactoryBot][factorybot-badge]
-![Faker][faker-badge]
-![Faraday][faraday-badge]
-![Figaro][figaro-badge]
-![Launchy][launchy-badge]
-![Orderly][orderly-badge]
-![Pry][pry-badge]
-![RSpec][rspec-badge]
-![RuboCop][rubocop-badge]
-![Shoulda-Matchers][shoulda-matchers-badge]
-![SimpleCov][simplecov-badge]
-![VCR][vcr-badge]
-![Webmock][webmock-badge]
 
 
 ### 💬 &nbsp; Processes
